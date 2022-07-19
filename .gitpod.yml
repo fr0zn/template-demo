@@ -1,1 +1,3 @@
-image: ethereum/client-go:alltools-latest
+# Commands to start on workspace startup
+tasks:
+  - init: pip install eth-brownie
