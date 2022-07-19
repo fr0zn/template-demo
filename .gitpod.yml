@@ -1,1 +1,1 @@
-image: ethereum/alltools-latest
+image: ethereum/client-go:alltools-latest
