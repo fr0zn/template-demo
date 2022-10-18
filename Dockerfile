@@ -1,5 +1,5 @@
 FROM gitpod/workspace-base
 
-RUN touch /workspace/template-demo/qwer
+#RUN touch /workspace/template-demo/qwer
 
-RUN mkdir /workspace/testwork
+RUN mkdir -p /workspace/testwork
