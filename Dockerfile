@@ -1,1 +1,1 @@
-IMAGE gitpod/workspace-base
+FROM gitpod/workspace-base
