@@ -1,3 +1,4 @@
-# Commands to start on workspace startup
-tasks:
-  - init: pip install eth-brownie
+image:
+  file: Dockerfile
+#tasks:
+#  - init: pip install eth-brownie
