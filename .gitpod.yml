@@ -1,4 +1,3 @@
-image:
-  file: Dockerfile
+image: ferranhalborn/ctf-gitpod
 #tasks:
 #  - init: pip install eth-brownie
